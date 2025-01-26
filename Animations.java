@@ -3,7 +3,7 @@ import greenfoot.*;
  * Write a description of class Animations here.
  * 
  * BrittneyHung
- * 1/9/2025
+ * 1/24/2025
  */
 public class Animations  
 {
